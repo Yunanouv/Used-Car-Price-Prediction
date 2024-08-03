@@ -1,4 +1,4 @@
-# Used-Car-Price-Prediction
+# Used Car Auction Price Prediction
 
 Dataset: [https://www.kaggle.com/datasets/tunguz/used-car-auction-prices]  
 Real case: The dataset contains historical car auction sales prices, scraped from outside internet sources. The dataset was collected in 2015, and will not be updated.
